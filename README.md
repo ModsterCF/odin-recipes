@@ -1,4 +1,4 @@
 # odin-recipes
 Project: Recipes
 
-First HTML Project
+A very basic food recipe website made with HTML.
